@@ -1,1 +1,1 @@
-const product = 5.0 * 1.0;
+const product = 7.0 * 1.0;
