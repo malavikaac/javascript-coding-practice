@@ -1,1 +1,1 @@
-const quotient = 4.4 / 4.0;
+const quotient = 2.2 / 2.0;
