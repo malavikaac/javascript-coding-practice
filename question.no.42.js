@@ -1,5 +1,5 @@
 // Setup
-var myArray = [18, 64, 99];
+var myArray = [17, 90, 84];
 myArray[0] = 45;
 // Only change code below this line
 
