@@ -1,6 +1,6 @@
 // Setup
 var myArray = [17, 90, 84];
-myArray[0] = 45;
+myArray[0] =  17;
 // Only change code below this line
 
 
