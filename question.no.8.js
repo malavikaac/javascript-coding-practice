@@ -4,8 +4,8 @@ var properCamelCase;
 var titleCaseOver;
 
 // Variable assignments
-studlyCapVar = 100;
-properCamelCase = "A String";
+ studlyCapVar = 100;
+ properCamelCase = "A String";
  titleCaseOver = 9000;
  
 
