@@ -1,1 +1,1 @@
-const myList = [["paul",2],["manisha",9],["malu",3],["gowsi",5],["rohini",8]];
+const myList = [["paul",2],["Sara",9],["Sathya",3],["jayanthi",5],["swetha",8]];
