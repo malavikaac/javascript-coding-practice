@@ -5,7 +5,7 @@ function sequentialSizes(val) {
         case 1:
         case 2:
         case 3:
-          answer = "Low";
+          answer = "High";
           break;
         case 4:
         case 5:
@@ -15,7 +15,7 @@ function sequentialSizes(val) {
         case 7:
         case 8:
         case 9:
-          answer = "High";
+          answer = "Low";
   }
     return answer;
   }
