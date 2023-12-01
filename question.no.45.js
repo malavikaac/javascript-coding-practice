@@ -2,6 +2,7 @@
 const ourArray = [["John", 23], ["cat", 2]];
 const removedFromMyArray = ourArray.pop();
 console.log(ourArray);
+
 console.log(removedFromMyArray);
 
 // Only change code below this line
