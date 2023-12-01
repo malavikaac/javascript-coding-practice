@@ -1,4 +1,4 @@
-const ourDecimal = 5.7;
+const ourDecimal = 7.2;
 
 // Only change code below this line
-const myDecimal = 5.8
+const myDecimal = 4.9

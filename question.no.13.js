@@ -1,1 +1,1 @@
-const product = 8 * 10;
+const product = 10 * 8;

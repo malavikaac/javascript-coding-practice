@@ -1,6 +1,6 @@
 
 // Setup
-var a;
+var b;
 
 // Only change code below this line
-  a=10;
+  b=15;

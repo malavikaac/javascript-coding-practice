@@ -1,9 +1,9 @@
 // Only change code below this line
-var a=5;
-var b=10
-var c= "I am a";
+var x=5;
+var y=10
+var z= "I am a";
 // Only change code above this line
 
-a = a + 1;
-b = b + 5;
-c = c + " String!";
+x += 1;
+y += 5;
+z = z + " String!";
